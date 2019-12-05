@@ -16,7 +16,6 @@
 title: HP
 description: > # this means to ignore newlines until "baseurl:"
   Material theme based on <a href="http://materializecss.com">Materialize.css</a> for jekyll sites
-baseurl: "/jasonhaopan"
 url: "https://JasonHaoPan.github.io"
 permalink: /:year/:month/:day/:title
 #repository: 
