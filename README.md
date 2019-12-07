@@ -1,5 +1,4 @@
 # A Personal blog
-# MatJek
 
 
 ## License
